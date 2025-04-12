@@ -1,0 +1,5 @@
+====BigramFrePairs==== Mark: 2/2
+====BigramFreStripes==== Mark: 2/2
+====CorPairs==== Mark: 0/3 [line 0: words <['a', 'about', '0.09090909090909091']> != <['Above', 'Also', '1.0']>]
+====CorStrip==== Mark: 0/3 [line 0: words <['a', 'about', '0.09090909090909091']> != <['Above', 'Also', '1.0']>]
+====Total Mark: 4/10
